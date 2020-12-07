@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: #5DA05B;
+}
+table{
+  margin-left:auto;
+  margin-right: auto;
+  margin-top: 150px;
+}
+.p1{
+  transform: rotate(90deg);
+}
+.p2{
+  transform: rotate(90deg);
+}
+.box{
+  transform: scaleX(-1);
+}
+td{
+  padding: 100px;
+}
+button{
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+
+}
+button:hover{
+  background-color: white;
+  color:black;
+}
